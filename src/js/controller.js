@@ -2,7 +2,7 @@ import * as model from './model.js';
 import recipeView from './views/recipeView.js';
 import searchView from './views/searchView';
 import resultsView from './views/resultsView.js';
-import 'core-js/stable';
+import 'core-js/actual';
 import 'regenerator-runtime/runtime';
 import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
