@@ -1,5 +1,6 @@
 import { API_URL, RESULTS_PER_PAGE, KEY } from './config.js';
 import { AJAX } from './helpers.js';
+import { async } from 'regenerator-runtime';
 
 export const state = {
   recipe: {},
