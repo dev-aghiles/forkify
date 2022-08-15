@@ -9,9 +9,11 @@
   },
   "author": "saal aghiles",
   "license": "ISC",
+  "homepage": "https://dev-aghiles.github.io/forkify/",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "@types/core-js": "^2.5.5",
+    "gh-pages": "^4.0.0",
     "parcel": "^2.7.0"
   },
   "dependencies": {
